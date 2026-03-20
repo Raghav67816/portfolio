@@ -1,5 +1,6 @@
 site_name: Raghav's Garage
 site_description: "Raghav Kumar's Portfolio"
+site_url: https://raghav67816.github.io/portfolio/
 
 theme:
   name: material
