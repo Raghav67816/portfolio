@@ -19,11 +19,11 @@ Can't thank Thomas enough, even though I was not able to attend the event, it ju
 </div>
 
 
-I applied for passport and guess what HARASSMENT. To be very clear I am not afraid to say that Police took 6K+2K INR in bribe to get my verification cleared without delay. Yes, they were intentionally delaying it for money. They harassed my father till core. The ACP of the district are all di*kheads. I say it very clearly.
+I applied for passport and faced corruption. Police took 6,000 + 2,000 INR in bribes to clear my verification without intentional delays. It was deeply unethical—they harassed my father throughout the process. This experience of systematic corruption became a turning point for me.
 
-I went to Home Ministry of India for help, I explained them, I begged for help and he said "Going to different country is not a game there are rules" I just simply said **WHAT RULES HUH ? THE RULE TO HARASS THE MIDDLE CLAS ? YOU OFFICERS TOOK BRIBE FROM ME TO PASS MY VERIFICATION, AND YOU TALKING ABOUT RULES** they misbehaved and said **TAKE YOUR FILES AND GO AWAY BEFORE I KICK YOU OUT**
+I went to Home Ministry of India for help, explaining the situation and seeking assistance. The official dismissed me, saying "Going to different country is not a game there are rules." When I tried to explain that officials had taken bribes, I was rudely told to leave.
 
-This was just unbelievable and I was furious. And since that day I hate the government. But you know, it wouldn't change anything, so I started to look for how to organise my own hackathons and after a few months I was selected as **PoC Of Daydream Delhi** and knew what my goal `Open and Accessible Hackathon In India`.
+This experience was deeply frustrating and shaped my perspective on systemic issues within government bureaucracy. But you know, it wouldn't change anything, so I started to look for how to organise my own hackathons and after a few months I was selected as **PoC Of Daydream Delhi** and knew what my goal `Open and Accessible Hackathon In India`.
 
 Me and my team tried our best and got `IIT Delhi` India's best engineering institute as venue, `Scaler School Of Tech` as sponsor (1K USD) along with StacksKB, India's best keyboard manufacturer.
 
@@ -52,5 +52,5 @@ And thanks to Daydream team specially Renran and Deven for being empathetic with
 I am now looking to organise more events because I know it will be different this time
 
 
-PS: The ACP to whom I handed 2K INR as bribe, came to my school as a chief guest in school assembly to lecture about honesty and hardwork. Can you believe this ?
+PS: Ironically, the same officer who took bribes from me later visited my school as a chief guest to lecture about honesty and hard work.
 

@@ -17,7 +17,7 @@ I also have unshipped projects on my GitHub which includes some projects that I 
     - **Stack:** C++, Qt Framework
     - **Status:** Shipped (Legacy), I didn't know about Github and Git that much.
 
-Vulture OS was a home automation platform/OS which my first piece of fault-tolerant system. I began ideating when my IoT project failed at school exhibition. I was just super furious on Blynk, and still I am because of their new business model.
+Vulture OS was a home automation platform/OS which was my first piece of fault-tolerant system. I began ideating when my IoT project failed at school exhibition. I was frustrated with Blynk at the time—their platform proved unreliable for our use case, and still has issues with their business model changes.
 
 But this project won 2 awards - Youngest National Finalist & Budding Innovator at IIT Bombay Techfest 2022
 

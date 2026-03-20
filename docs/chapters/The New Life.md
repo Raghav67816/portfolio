@@ -12,7 +12,7 @@ So, 9th standard started and I was given a team to lead for AI School Exhibition
 
 Now comes the exhibition day. I was out for another inter-school compeition. And boom it failed in front of the guests my team was embarassed.
 
-Next day, I was scolded of my attitude. And I was like **Who are they to point fingers at my project, it's just that Blynk's new system is sh*t and they can't handle it**
+Next day, I was scolded for my attitude. Initially, I blamed external factors—Blynk's platform was unreliable for our use case. But I eventually realized the real problem was my approach and lack of leadership.
 
 As a result I spent a few weeks designing and building an automation platform easy enough to be used by a layman.
 
